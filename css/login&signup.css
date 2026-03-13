@@ -17,7 +17,7 @@ body {
   background-size: cover;
 }
 .container {
-  background: rgba(23, 139, 23, 0.781); 
+  background: rgba(23, 139, 23, 0.481); 
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -79,9 +79,10 @@ input:focus {
   font-weight: bold;
   
 }
-.rem{
+#rem{
     color: black;
     font-weight: bold;
+    font-size: 17px;
 }
 
 /* Button Styling */
